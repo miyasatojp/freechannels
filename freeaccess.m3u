@@ -1,0 +1,595 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hindi",SONY TV HD INDIA
+http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV SD INDIA
+http://channels.ooguy.com:80/auth?channel=SonyTvSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV USA EAST
+http://channels.ooguy.com:80/auth?channel=SonyTvHdUsaEast&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV USA WEST
+http://channels.ooguy.com:80/auth?channel=SonyTvHdUsaWest&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV USA
+http://channels.ooguy.com:80/auth?channel=SonyTvSdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV UK HD
+http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV UK SD
+http://channels.ooguy.com:80/auth?channel=SonyTvSdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV AUS
+http://channels.ooguy.com:80/auth?channel=SonyTvAus&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY TV RANDOM
+http://channels.ooguy.com:80/auth?channel=SonyTvRandom&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY SAB HD INDIA
+http://channels.ooguy.com:80/auth?channel=SonySabHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY SAB SD INDIA
+http://channels.ooguy.com:80/auth?channel=SonySabSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY SAB HD USA
+http://channels.ooguy.com:80/auth?channel=SonySabHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY SAB SD USA
+http://channels.ooguy.com:80/auth?channel=SonySabSdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY SAB UK
+http://channels.ooguy.com:80/auth?channel=SonySabHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY SAB AUS
+http://channels.ooguy.com:80/auth?channel=SonySabAus&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MAX HD INDIA
+http://channels.ooguy.com:80/auth?channel=SonyMaxHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MAX SD INDIA
+http://channels.ooguy.com:80/auth?channel=SonyMaxSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MAX HD UK
+http://channels.ooguy.com:80/auth?channel=SonyMaxHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MAX SD UK
+http://channels.ooguy.com:80/auth?channel=SonyMaxSdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MAX AUS
+http://channels.ooguy.com:80/auth?channel=SonyMaxAus&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MAX 2 INDIA
+http://channels.ooguy.com:80/auth?channel=SonyMax2India&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MAX 2 UK
+http://channels.ooguy.com:80/auth?channel=SonyMax2Uk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY WAH INDIA
+http://channels.ooguy.com:80/auth?channel=SonyWahSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY PIX HD INDIA
+http://channels.ooguy.com:80/auth?channel=SonyPixHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY PIX SD INDIA
+http://channels.ooguy.com:80/auth?channel=SonyPixSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY PAL INDIA
+http://channels.ooguy.com:80/auth?channel=SonyPalSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY BBC EARTH HINDI INDIA
+http://channels.ooguy.com:80/auth?channel=SonyBbcEarthHindiHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY BBC EARTH ENGLISH INDIA
+http://channels.ooguy.com:80/auth?channel=SonyBbcEarthEnglishHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",SONY MIX INDIA
+http://channels.ooguy.com:80/auth?channel=SonyMixSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",FOOD FOOD INDIA
+http://channels.ooguy.com:80/auth?channel=FoodFoodHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR PLUS HD INDIA
+http://channels.ooguy.com:80/auth?channel=StarPlusHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR PLUS SD INDIA
+http://channels.ooguy.com:80/auth?channel=StarPlusSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR PLUS INDIA
+http://channels.ooguy.com:80/auth?channel=StarPlusIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR PLUS HD USA
+http://channels.ooguy.com:80/auth?channel=StarPlusHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR PLUS SD USA
+http://channels.ooguy.com:80/auth?channel=StarPlusSdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR PLUS UK
+http://channels.ooguy.com:80/auth?channel=StarPlusSdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR PLUS AUS
+http://channels.ooguy.com:80/auth?channel=StarPlusAus&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR BHARAT HD INDIA
+http://channels.ooguy.com:80/auth?channel=StarBharatHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR BHARAT SD INDIA
+http://channels.ooguy.com:80/auth?channel=StarBharatSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR BHARAT INDIA
+http://channels.ooguy.com:80/auth?channel=StarBharatIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR BHARAT USA
+http://channels.ooguy.com:80/auth?channel=StarBharatUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR BHARAT UK
+http://channels.ooguy.com:80/auth?channel=StarBharatUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR BHARAT AUS
+http://channels.ooguy.com:80/auth?channel=StarBharatAus&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR GOLD HD INDIA
+http://channels.ooguy.com:80/auth?channel=StarGoldHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR GOLD SD INDIA
+http://channels.ooguy.com:80/auth?channel=StarGoldSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR GOLD 2 INDIA
+http://channels.ooguy.com:80/auth?channel=StarGold2India&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR GOLD HD UK
+http://channels.ooguy.com:80/auth?channel=StarGoldHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR GOLD SD UK
+http://channels.ooguy.com:80/auth?channel=StarGoldSdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR GOLD SELECT INDIA
+http://channels.ooguy.com:80/auth?channel=StarGoldSelectHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR UTSAV INDIA
+http://channels.ooguy.com:80/auth?channel=StarUtsavSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR MOVIES
+http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",STAR WORLD
+http://channels.ooguy.com:80/auth?channel=StarWorldHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS HD INDIA
+http://channels.ooguy.com:80/auth?channel=ColorsHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS SD INDIA
+http://channels.ooguy.com:80/auth?channel=ColorsSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS HD USA
+http://channels.ooguy.com:80/auth?channel=ColorsHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS SD USA
+http://channels.ooguy.com:80/auth?channel=ColorsSdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS USA
+http://channels.ooguy.com:80/auth?channel=ColorsUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS UK
+http://channels.ooguy.com:80/auth?channel=ColorsHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS AUS
+http://channels.ooguy.com:80/auth?channel=ColorsAus&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS RISHTEY INDIA
+http://channels.ooguy.com:80/auth?channel=ColorsRishteyHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS RISHTEY APAC
+http://channels.ooguy.com:80/auth?channel=ColorsRishteyHdApac&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS RISHTEY UK
+http://channels.ooguy.com:80/auth?channel=ColorsRishteyHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS RISHTEY AUS
+http://channels.ooguy.com:80/auth?channel=ColorsRishteyAus&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS RISHTEY CANADA
+http://channels.ooguy.com:80/auth?channel=ColorsRishteyHdCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS CINEPLEX INDIA
+http://channels.ooguy.com:80/auth?channel=ColorsCineplexHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS CINEPLEX UK
+http://channels.ooguy.com:80/auth?channel=ColorsCineplexSdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",COLORS CINEPLEX CANADA
+http://channels.ooguy.com:80/auth?channel=ColorsCineplexSdCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",B4U MOVIES INDIA
+http://channels.ooguy.com:80/auth?channel=B4uMoviesHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",B4U MOVIES APAC
+http://channels.ooguy.com:80/auth?channel=B4uMoviesHdApac&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",B4U MOVIES CANADA
+http://channels.ooguy.com:80/auth?channel=B4uMoviesHdCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",B4U MUSIC INDIA
+http://channels.ooguy.com:80/auth?channel=B4uMusicHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",B4U MUSIC APAC
+http://channels.ooguy.com:80/auth?channel=B4uMusicHdApac&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",B4U KADAK INDIA
+http://channels.ooguy.com:80/auth?channel=B4uKadakHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",BOLLYWOOD CLASSICS
+http://channels.ooguy.com:80/auth?channel=BollywoodClassicsHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",CINEMA TV
+http://channels.ooguy.com:80/auth?channel=CinemaTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",WOW CINEMA
+http://channels.ooguy.com:80/auth?channel=WowCinema&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",D2H MOVIES
+http://channels.ooguy.com:80/auth?channel=D2hMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",UTV MOVIES
+http://channels.ooguy.com:80/auth?channel=UtvMoviesHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",UTV ACTION
+http://channels.ooguy.com:80/auth?channel=UtvActionHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",MOVIES ACTIVE
+http://channels.ooguy.com:80/auth?channel=MoviesActiveHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE CINEMA HD
+http://channels.ooguy.com:80/auth?channel=ZeeCinemaHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE CINEMA USA
+http://channels.ooguy.com:80/auth?channel=ZeeCinemaSdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE CINEMA UK
+http://channels.ooguy.com:80/auth?channel=ZeeCinemaSdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE CINEMA MIDDLE EAST
+http://channels.ooguy.com:80/auth?channel=ZeeCinemaSdMiddleEast&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE THEATRE
+http://channels.ooguy.com:80/auth?channel=ZeeTheatreHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE CLASSIC
+http://channels.ooguy.com:80/auth?channel=ZeeClassicSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE ACTION
+http://channels.ooguy.com:80/auth?channel=ZeeActionSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE BOLLYWOOD
+http://channels.ooguy.com:80/auth?channel=ZeeBollywoodSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE ANMOL CINEMA
+http://channels.ooguy.com:80/auth?channel=ZeeAnmolCinemaSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE ANMOL
+http://channels.ooguy.com:80/auth?channel=ZeeAnmolSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE ETC
+http://channels.ooguy.com:80/auth?channel=ZeeEtcSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE TV HD
+http://channels.ooguy.com:80/auth?channel=ZeeTvHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE TV HD USA
+http://channels.ooguy.com:80/auth?channel=ZeeTvHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE TV SD USA
+http://channels.ooguy.com:80/auth?channel=ZeeTvSdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE TV UK
+http://channels.ooguy.com:80/auth?channel=ZeeTvSdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE TV CANADA
+http://channels.ooguy.com:80/auth?channel=ZeeTvHdCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE TV APAC
+http://channels.ooguy.com:80/auth?channel=ZeeTvSdApac&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE SMILE
+http://channels.ooguy.com:80/auth?channel=ZeeSmileHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZING
+http://channels.ooguy.com:80/auth?channel=ZingSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZING USA
+http://channels.ooguy.com:80/auth?channel=ZingHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AND TV HD
+http://channels.ooguy.com:80/auth?channel=AndTvHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AND TV SD
+http://channels.ooguy.com:80/auth?channel=AndTvSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AND PICS HD
+http://channels.ooguy.com:80/auth?channel=AndPicsHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AND PICS SD
+http://channels.ooguy.com:80/auth?channel=AndPicsSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AND FLIX HD
+http://channels.ooguy.com:80/auth?channel=AndFlixHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AND FLIX SD
+http://channels.ooguy.com:80/auth?channel=AndFlixSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AND PRIVE HD
+http://channels.ooguy.com:80/auth?channel=AndPriveHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",ZEE NEWS
+http://channels.ooguy.com:80/auth?channel=ZeeNewsSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",TIMES NOW
+http://channels.ooguy.com:80/auth?channel=TimesNow&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",MIRROR NOW
+http://channels.ooguy.com:80/auth?channel=MirrorNow&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",NEWS 24
+http://channels.ooguy.com:80/auth?channel=News24&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",IBC 24
+http://channels.ooguy.com:80/auth?channel=Ibc24&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",FASTWAY NEWS
+http://channels.ooguy.com:80/auth?channel=FastwayNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",INDIA TV
+http://channels.ooguy.com:80/auth?channel=IndiaTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",BBC TORONTO
+http://channels.ooguy.com:80/auth?channel=BbcToronto&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",TV 100
+http://channels.ooguy.com:80/auth?channel=Tv100&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",TEZ
+http://channels.ooguy.com:80/auth?channel=Tez&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AAJ TAK
+http://channels.ooguy.com:80/auth?channel=AajTak&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",DELHI AAJ TAK
+http://channels.ooguy.com:80/auth?channel=DelhiAajTak&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",DIVYA TV
+http://channels.ooguy.com:80/auth?channel=DivyaTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",NDTV INDIA
+http://channels.ooguy.com:80/auth?channel=NdtvIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",JUS HINDI
+http://channels.ooguy.com:80/auth?channel=JusHindi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",JUS PUNJABI
+http://channels.ooguy.com:80/auth?channel=JusPunjabi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",JUS ONE
+http://channels.ooguy.com:80/auth?channel=JusOne&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",ZEE PUNJABI
+http://channels.ooguy.com:80/auth?channel=ZeePunjabiHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",ZEE PUNJABI NEWS
+http://channels.ooguy.com:80/auth?channel=ZeePunjabiNewsHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTN 24
+http://channels.ooguy.com:80/auth?channel=Ptn24&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",ALPHA ETC PUNJABI
+http://channels.ooguy.com:80/auth?channel=EtcPunjabiHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PRIME ASIA
+http://channels.ooguy.com:80/auth?channel=PrimeAsiaHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",HAMDARD TV
+http://channels.ooguy.com:80/auth?channel=HamdardTvHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",HAMDARD LAUGHTER
+http://channels.ooguy.com:80/auth?channel=HamdardLaughterHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTC PUNJABI
+http://channels.ooguy.com:80/auth?channel=PtcPunjabi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTC PUNJABI GOLD
+http://channels.ooguy.com:80/auth?channel=PtcPunjabiGold&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTC CHAKDE
+http://channels.ooguy.com:80/auth?channel=PtcChakde&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTC NEWS
+http://channels.ooguy.com:80/auth?channel=PtcNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTC SIMRAN
+http://channels.ooguy.com:80/auth?channel=PtcSimran&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTC MUSIC
+http://channels.ooguy.com:80/auth?channel=PtcMusic&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PTC DHOL
+http://channels.ooguy.com:80/auth?channel=PtcDhol&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",CHAKDE TV
+http://channels.ooguy.com:80/auth?channel=ChakdeTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",JHANJAR TV
+http://channels.ooguy.com:80/auth?channel=JhanjarTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",JHANJAR MUSIC
+http://channels.ooguy.com:80/auth?channel=JhanjarMusic&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PARDESI TV
+http://channels.ooguy.com:80/auth?channel=PardesiTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PBN MUSIC
+http://channels.ooguy.com:80/auth?channel=PbnMusic&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",TV PUNJAB
+http://channels.ooguy.com:80/auth?channel=TvPunjab&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",CHARDIK TIME TV
+http://channels.ooguy.com:80/auth?channel=ChardikTimeTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",MH ONE NEWS
+http://channels.ooguy.com:80/auth?channel=MhOneNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",5AAB TV
+http://channels.ooguy.com:80/auth?channel=5AabTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",AONE TV
+http://channels.ooguy.com:80/auth?channel=AoneTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",AMAR UJALA
+http://channels.ooguy.com:80/auth?channel=AmarUjala&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",DD PUNJABI
+http://channels.ooguy.com:80/auth?channel=DdPunjabi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PUNJABI ZINDABAD
+http://channels.ooguy.com:80/auth?channel=PunjabiZindabad&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",PITAARA TV
+http://channels.ooguy.com:80/auth?channel=PitaaraTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",DESI CHANNEL
+http://channels.ooguy.com:80/auth?channel=DesiChannel&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",ABP SANJHA
+http://channels.ooguy.com:80/auth?channel=AbpSanjha&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",NAGARA TV
+http://channels.ooguy.com:80/auth?channel=NagaraTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",JANTA TV
+http://channels.ooguy.com:80/auth?channel=JantaTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",AKAAL
+http://channels.ooguy.com:80/auth?channel=Akaal&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",DAILY GURBANI TV
+http://channels.ooguy.com:80/auth?channel=DailyGurbaniTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",KHALISTAN TV
+http://channels.ooguy.com:80/auth?channel=KhalistanTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",SIKH CHANNEL
+http://channels.ooguy.com:80/auth?channel=SikhChannel&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",SIKH CHANNEL USA
+http://channels.ooguy.com:80/auth?channel=SikhChannelUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Punjabi",ANKHILA PUNJAB
+http://channels.ooguy.com:80/auth?channel=AnkhilaPunjab&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TEN 1 INDIA
+http://channels.ooguy.com:80/auth?channel=Ten1HdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TEN 2 INDIA
+http://channels.ooguy.com:80/auth?channel=Ten2HdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TEN 3 INDIA
+http://channels.ooguy.com:80/auth?channel=Ten3HdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",SONY ESPN INDIA
+http://channels.ooguy.com:80/auth?channel=SonyEspnHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",SONY SIX INDIA
+http://channels.ooguy.com:80/auth?channel=SonySixHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1
+http://channels.ooguy.com:80/auth?channel=StarSports1Hd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",STAR SPORTS SELECT 1
+http://channels.ooguy.com:80/auth?channel=StarSportsSelect1Hd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",STAR SPORTS 2
+http://channels.ooguy.com:80/auth?channel=StarSports2Hd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",STAR SPORTS SELECT 2
+http://channels.ooguy.com:80/auth?channel=StarSportsSelect2Hd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",JIO CRICKET
+http://channels.ooguy.com:80/auth?channel=JioCricket&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL
+http://channels.ooguy.com:80/auth?channel=SkySportsFootball&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",SKY SPORTS CRICKET
+http://channels.ooguy.com:80/auth?channel=SkySportsCricket&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",SKY SPORTS CRICKET HD
+http://channels.ooguy.com:80/auth?channel=SkySportsCricketHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",SKY SPORTS MIX
+http://channels.ooguy.com:80/auth?channel=SkySportsMix&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN
+http://channels.ooguy.com:80/auth?channel=Bein&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 1
+http://channels.ooguy.com:80/auth?channel=Bein1&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 2
+http://channels.ooguy.com:80/auth?channel=Bein2&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 3
+http://channels.ooguy.com:80/auth?channel=Bein3&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 4
+http://channels.ooguy.com:80/auth?channel=Bein4&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 5
+http://channels.ooguy.com:80/auth?channel=Bein5&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 6
+http://channels.ooguy.com:80/auth?channel=Bein6&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 7
+http://channels.ooguy.com:80/auth?channel=Bein7&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 8
+http://channels.ooguy.com:80/auth?channel=Bein8&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 9
+http://channels.ooguy.com:80/auth?channel=Bein9&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 10
+http://channels.ooguy.com:80/auth?channel=Bein10&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 11
+http://channels.ooguy.com:80/auth?channel=Bein11&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 12
+http://channels.ooguy.com:80/auth?channel=Bein12&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 13
+http://channels.ooguy.com:80/auth?channel=Bein13&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 14
+http://channels.ooguy.com:80/auth?channel=Bein14&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 15
+http://channels.ooguy.com:80/auth?channel=Bein15&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BEIN 16
+http://channels.ooguy.com:80/auth?channel=Bein16&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",ARENA SPORT 1
+http://channels.ooguy.com:80/auth?channel=ArenaSport1&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",ARENA SPORT 2
+http://channels.ooguy.com:80/auth?channel=ArenaSport2&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",ARENA SPORT 3
+http://channels.ooguy.com:80/auth?channel=ArenaSport3&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",ARENA SPORT 4
+http://channels.ooguy.com:80/auth?channel=ArenaSport4&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",NHL
+http://channels.ooguy.com:80/auth?channel=Nhl&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",NFL
+http://channels.ooguy.com:80/auth?channel=Nfl&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",NBA
+http://channels.ooguy.com:80/auth?channel=Nba&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TSN 1
+http://channels.ooguy.com:80/auth?channel=Tsn1&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TSN 2
+http://channels.ooguy.com:80/auth?channel=Tsn2&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TSN 3
+http://channels.ooguy.com:80/auth?channel=Tsn3&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TSN 4
+http://channels.ooguy.com:80/auth?channel=Tsn4&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",TSN 5
+http://channels.ooguy.com:80/auth?channel=Tsn5&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BT SPORTS 1
+http://channels.ooguy.com:80/auth?channel=BtSports1&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BT SPORTS 2
+http://channels.ooguy.com:80/auth?channel=BtSports2&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",BT SPORTS 3
+http://channels.ooguy.com:80/auth?channel=BtSports3&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",ESPN HD
+http://channels.ooguy.com:80/auth?channel=Espn&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",REDBULL TV
+http://channels.ooguy.com:80/auth?channel=RedbullTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",SN
+http://channels.ooguy.com:80/auth?channel=Sn&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",WILLOW TV
+http://channels.ooguy.com:80/auth?channel=WillowTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Sports",WWE
+http://channels.ooguy.com:80/auth?channel=Wwe&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL ALBERTA
+http://channels.ooguy.com:80/auth?channel=GlobalAlberta&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL ALBERTA NEWS
+http://channels.ooguy.com:80/auth?channel=GlobalAlbertaNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL BRITISH COLUMBIA
+http://channels.ooguy.com:80/auth?channel=GlobalBritishColumbia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL BRITISH COLUMBIA NEWS
+http://channels.ooguy.com:80/auth?channel=GlobalBritishColumbiaNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL TORONTO
+http://channels.ooguy.com:80/auth?channel=GlobalToronto&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL MARITIMES
+http://channels.ooguy.com:80/auth?channel=GlobalMaritimes&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL ONTARIO NEWS
+http://channels.ooguy.com:80/auth?channel=GlobalOntarioNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",GLOBAL NATIONAL NEWS
+http://channels.ooguy.com:80/auth?channel=GlobalNationalNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC NEWS NETWORK
+http://channels.ooguy.com:80/auth?channel=CbcNewsNetwork&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC QUEBEC
+http://channels.ooguy.com:80/auth?channel=CbcTvQuebec&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC ONTARIO
+http://channels.ooguy.com:80/auth?channel=CbcTvOntario&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC CALGARY
+http://channels.ooguy.com:80/auth?channel=CbcCalgary&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC CHARLOTTETOWN
+http://channels.ooguy.com:80/auth?channel=CbcCharlottetown&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC EDMONTON
+http://channels.ooguy.com:80/auth?channel=CbcEdmonton&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC FREDERICTON
+http://channels.ooguy.com:80/auth?channel=CbcFredericton&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC HALIFAX
+http://channels.ooguy.com:80/auth?channel=CbcHalifax&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC MONTREAL
+http://channels.ooguy.com:80/auth?channel=CbcMontreal&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC OTTAWA
+http://channels.ooguy.com:80/auth?channel=CbcOttawa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC REGINA
+http://channels.ooguy.com:80/auth?channel=CbcRegina&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC ST JOHNS
+http://channels.ooguy.com:80/auth?channel=CbcStJohns&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC TORONTO
+http://channels.ooguy.com:80/auth?channel=CbcToronto&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC VANCOUVER
+http://channels.ooguy.com:80/auth?channel=CbcVancouver&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC WINDSOR
+http://channels.ooguy.com:80/auth?channel=CbcWindsor&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC WINNIPEG
+http://channels.ooguy.com:80/auth?channel=CbcWinnipeg&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",CBC YELLOWKNIFE
+http://channels.ooguy.com:80/auth?channel=CbcYellowknife&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",THE WEATHER NETWORK
+http://channels.ooguy.com:80/auth?channel=TheWeatherNetworkCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",THE WEATHER CHANNEL
+http://channels.ooguy.com:80/auth?channel=TheWeatherChannelUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",WEATHER NATION
+http://channels.ooguy.com:80/auth?channel=WeatherNation&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",THE SHOPPING CHANNEL
+http://channels.ooguy.com:80/auth?channel=TheShoppingChannelCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",AXN
+http://channels.ooguy.com:80/auth?channel=AXN&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",AMC
+http://channels.ooguy.com:80/auth?channel=AMC&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",E!
+http://channels.ooguy.com:80/auth?channel=E!&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",HBO
+http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",AFV
+http://channels.ooguy.com:80/auth?channel=Afv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",AFV HD
+http://channels.ooguy.com:80/auth?channel=AfvHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",FAIL ARMY
+http://channels.ooguy.com:80/auth?channel=FailArmy&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",HGTV USA
+http://channels.ooguy.com:80/auth?channel=HgtvUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",HGTV CANADA
+http://channels.ooguy.com:80/auth?channel=HgtvCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",TLC
+http://channels.ooguy.com:80/auth?channel=TlcHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",ADULT SWIM CANADA
+http://channels.ooguy.com:80/auth?channel=AdultSwimCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",NATIONAL GEOGRAPHIC
+http://channels.ooguy.com:80/auth?channel=NationalGeographic&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",NATIONAL GEOGRAPHIC HD
+http://channels.ooguy.com:80/auth?channel=NationalGeographicHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",NATIONAL GEOGRAPHIC CANADA
+http://channels.ooguy.com:80/auth?channel=NationalGeographicCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",NATIONAL GEOGRAPHIC HINDI
+http://channels.ooguy.com:80/auth?channel=NationalGeographicHindi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",NATIONAL GEOGRAPHIC WILD
+http://channels.ooguy.com:80/auth?channel=NationalGeographicWild&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",NATIONAL GEOGRAPHIC WILD HD
+http://channels.ooguy.com:80/auth?channel=NationalGeographicWildHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Hindi",NATIONAL GEOGRAPHIC WILD HINDI
+http://channels.ooguy.com:80/auth?channel=NationalGeographicWildHindi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",NATIONAL GEOGRAPHIC PEOPLE
+http://channels.ooguy.com:80/auth?channel=NationalGeographicPeople&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",ANIMAL PLANET HD
+http://channels.ooguy.com:80/auth?channel=AnimalPlanetHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",ANIMAL PLANET SD
+http://channels.ooguy.com:80/auth?channel=AnimalPlanet&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",FOOD NETWORK CANADA
+http://channels.ooguy.com:80/auth?channel=FoodNetworkCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",HISTORY HD USA
+http://channels.ooguy.com:80/auth?channel=HistoryHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",HISTORY SD USA
+http://channels.ooguy.com:80/auth?channel=HistorySdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",HISTORY CANADA
+http://channels.ooguy.com:80/auth?channel=HistoryCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",HISTORY 2
+http://channels.ooguy.com:80/auth?channel=History2Hd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",W NETWORK CANADA
+http://channels.ooguy.com:80/auth?channel=WNetworkCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",SLICE CANADA
+http://channels.ooguy.com:80/auth?channel=SliceCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",SHOW CASE CANADA
+http://channels.ooguy.com:80/auth?channel=ShowCaseCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",SCI-FI
+http://channels.ooguy.com:80/auth?channel=Sci-Fi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",INVESTIGATION DISCOVERY
+http://channels.ooguy.com:80/auth?channel=InvestigationDiscovery&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",DISCOVERY CHANNEL HD
+http://channels.ooguy.com:80/auth?channel=DiscoveryChannelHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="English",DISCOVERY CHANNEL SD
+http://channels.ooguy.com:80/auth?channel=DiscoveryChannelSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISCOVERY KIDS
+http://channels.ooguy.com:80/auth?channel=DiscoveryKidsHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY XD CANADA
+http://channels.ooguy.com:80/auth?channel=DisneyXdCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY XD USA
+http://channels.ooguy.com:80/auth?channel=DisneyXdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY CHANNEL CANADA
+http://channels.ooguy.com:80/auth?channel=DisneyChannelCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY CHANNEL USA
+http://channels.ooguy.com:80/auth?channel=DisneyChannelUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY CHANNEL HD USA
+http://channels.ooguy.com:80/auth?channel=DisneyChannelHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY CHANNEL UK
+http://channels.ooguy.com:80/auth?channel=DisneyChannelUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY JUNIOR
+http://channels.ooguy.com:80/auth?channel=DisneyJunior&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",DISNEY JUNIOR HD
+http://channels.ooguy.com:80/auth?channel=DisneyJuniorHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",FAMILY CHANNEL
+http://channels.ooguy.com:80/auth?channel=FamilyChannel&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",NICKELODEON
+http://channels.ooguy.com:80/auth?channel=Nickelodeon&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",NICKELODEON HD
+http://channels.ooguy.com:80/auth?channel=NickelodeonHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",NICKTOONS
+http://channels.ooguy.com:80/auth?channel=Nicktoons&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",NICKELODEON JUNIOR
+http://channels.ooguy.com:80/auth?channel=NickelodeonJunior&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",TELETOON
+http://channels.ooguy.com:80/auth?channel=Teletoon&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",YTV
+http://channels.ooguy.com:80/auth?channel=YTV&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",CARTOON NETWORK
+http://channels.ooguy.com:80/auth?channel=CartoonNetwork&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",CARTOON NETWORK UK
+http://channels.ooguy.com:80/auth?channel=CartoonNetworkUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",SONY YAY INDIA
+http://channels.ooguy.com:80/auth?channel=SonyYaySdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="Kids",TREEHOUSE
+http://channels.ooguy.com:80/auth?channel=Treehouse&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="247",HELLS KITCHEN
+http://channels.ooguy.com:80/auth?channel=HellsKitchen247&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 group-title="247",KITCHEN NIGHTMARES
+http://channels.ooguy.com:80/auth?channel=KitchenNightmares247&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
