@@ -15,7 +15,7 @@ http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=mpegts&authorization=R
 http://channels.ooguy.com:80/auth?channel=SonyTvSdUk&type=mpegts&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 group-title="Hindi",SONY TV AUS
 http://channels.ooguy.com:80/auth?channel=SonyTvAus&type=mpegts&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 group-title="Hindi",SONY TV RANDOM
+#EXTINF:-1 group-title="Hindi",SONY TV RANDOM (Changes randomly from Sony Liv to Yupp or Whatever)
 http://channels.ooguy.com:80/auth?channel=SonyTvRandom&type=mpegts&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 group-title="Hindi",SONY SAB HD INDIA
 http://channels.ooguy.com:80/auth?channel=SonySabHdIndia&type=mpegts&authorization=RnJFZUFjQ2VTcw==
