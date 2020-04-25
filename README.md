@@ -13,4 +13,6 @@ Free M3U8 and MPEGTS Channels.
 # Requests
 - Channel Logo's. Channel Logos will be available in the next update
 
+<hr>
+
 If you want to send a donation click this: [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTDP856JMDWBY&source=url)
