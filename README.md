@@ -12,8 +12,6 @@ Free M3U8 and MPEGTS Channels.
 - I will try to fix "mpegts.m3u" so it doesn't say "Server error"
 - If a channel is saying "Channel Down" wait a few hours and it should get fixed
 
-<br>
-
 # Requests
 - Channel Logo's. Channel Logos will be available in the next update
 
