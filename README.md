@@ -6,6 +6,8 @@ Free M3U8 and MPEGTS Channels.
   If you have a channel request or for any help contact: finetv@protonmail.com OR just submit your issue 
   <a href="https://github.com/snake24564/freechannels/issues/new">HERE</a>
 
+<br>
+
 # Issues
 - I will try to fix "mpegts.m3u" so it doesn't say "Server error"
 - If a channel is saying "Channel Down" wait a few hours and it should get fixed
