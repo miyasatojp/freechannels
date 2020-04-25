@@ -10,7 +10,7 @@ Free M3U8 and MPEGTS Channels.
   <a href="https://github.com/snake24564/freechannels/issues/new">HERE</a>
 
 # Issues
-- I will try to fix .mpegts.m3u so it doesn't say "Server error"
+- I will try to fix "mpegts.m3u" so it doesn't say "Server error"
 - If a channel is saying "Channel Down" wait a few hours and it should get fixed
 
 # Requests
