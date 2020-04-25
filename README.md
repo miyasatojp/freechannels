@@ -4,10 +4,10 @@
 # Free Channels
 Free M3U8 and MPEGTS Channels.
 <p>
-Around 300 channels (English, Hindi, Punjabi, Sports, Kids)
+  Around 300 channels (English, Hindi, Punjabi, Sports, Kids)
 <p>
-For any help contact: finetv@protonmail.com OR just submit your issue 
-<a href="https://github.com/snake24564/freechannels/issues/new">HERE</a>
+  If you have a channel request or for any help contact: finetv@protonmail.com OR just submit your issue 
+  <a href="https://github.com/snake24564/freechannels/issues/new">HERE</a>
 
 # Issues
 - I will try to fix that .mpegts.m3u so it doesn't say "Server error"
