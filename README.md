@@ -17,4 +17,4 @@ Free M3U8 and MPEGTS Channels.
 
 <hr>
 
-If you want to send a donation click this: [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTDP856JMDWBY&source=url)
+If you want to send a donation click: [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTDP856JMDWBY&source=url)
