@@ -6,7 +6,7 @@ Free M3U8 and MPEGTS Channels.
   If you have a channel request or for any help contact: finetv@protonmail.com OR just submit your issue 
   <a href="https://github.com/snake24564/freechannels/issues/new">HERE</a>
 
-<b>If you want to re streaming any channel please contact finetv@protonmail.com</b>
+<b>If you want to restream any channel please contact finetv@protonmail.com</b>
 <br>
 
 # Issues
